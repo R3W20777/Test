@@ -7,6 +7,7 @@ class Person
 public:
 	Person();
 	~Person();
+	int GetAge();
 
 private:
 	int age;
