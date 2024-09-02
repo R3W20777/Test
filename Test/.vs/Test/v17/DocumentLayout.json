@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\C\u002B\u002B\\Test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9882DAFE-4580-4F7B-BECF-6C0D1B746105}|Test.vcxproj|C:\\C\u002B\u002B\\Test\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9882DAFE-4580-4F7B-BECF-6C0D1B746105}|Test.vcxproj|solutionrelative:Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9882DAFE-4580-4F7B-BECF-6C0D1B746105}|Test.vcxproj|C:\\C\u002B\u002B\\Test\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9882DAFE-4580-4F7B-BECF-6C0D1B746105}|Test.vcxproj|solutionrelative:Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9882DAFE-4580-4F7B-BECF-6C0D1B746105}|Test.vcxproj|C:\\C\u002B\u002B\\Test\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9882DAFE-4580-4F7B-BECF-6C0D1B746105}|Test.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Test\\Person.cpp",
+              "RelativeDocumentMoniker": "Person.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Test\\Person.cpp",
+              "RelativeToolTip": "Person.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-22T11:28:10.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Test\\Person.h",
+              "RelativeDocumentMoniker": "Person.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Test\\Person.h",
+              "RelativeToolTip": "Person.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-22T11:25:02.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\C\u002B\u002B\\Test\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\C\u002B\u002B\\Test\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-21T06:09:23.647Z",
               "EditorCaption": ""
